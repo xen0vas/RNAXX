@@ -1,5 +1,5 @@
-# RNAXX-Decoder
+# RNAXX
 
-RNAXX decoder is a tool used to decrypt and execute [XDNR](https://github.com/xen0vas/XDNR) encrypted / encoded shellcodes
+RNAXX is a tool used to decrypt, decode and execute [XDNR](https://github.com/xen0vas/XDNR) encrypted / encoded shellcodes
 
 
