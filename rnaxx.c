@@ -3,7 +3,7 @@
 * Title: Windows/x86 - XOR/DEC/NOT/ROR ( XDNR ) encrypted / encoded + null free reverse tcp (192.168.201.11:4444) shellcode ( 840 bytes )  
 * Date: 19.04.2022
 * Author: Xenofon Vassilakopoulos  
-* github : https://github.com/xen0vas/RNAXX-Decoder
+* github : https://github.com/xen0vas/RNAXX
 *
 * shellcode is encrypted / encoded using the following tool 
 * https://github.com/xen0vas/XDNR
